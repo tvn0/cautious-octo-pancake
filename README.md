@@ -1,6 +1,13 @@
-# plants
+# Plants
 
-A new Flutter project.
+A flutter project to learn UI skills, to showcase plants
+
+## Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />            
+</p>
 
 ## Getting Started
 
